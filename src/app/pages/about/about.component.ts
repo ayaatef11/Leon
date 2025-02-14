@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './about.component.css'
 })
 export class AboutComponent {
-path="assets/images/about.jpg;"
+path="images/about.jpg;"
 }

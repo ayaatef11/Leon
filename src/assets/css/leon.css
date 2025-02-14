@@ -1,24 +1,4 @@
-/* Start Variables */
-:root {
-    --main-color: #10cab7;
-    --secondary-color: #2c4755;
-    --section-padding: 60px;
-    --section-background: #f6f6f6;
-    --main-duration: 0.5s;
-  }
-  /* End Variables */
-  /* Start Global Rules */
-  * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  html {
-    scroll-behavior: smooth;
-  }
-  body {
-    font-family: "Work Sans", sans-serif;
-  }
+
   .container {
     padding-left: 15px;
     padding-right: 15px;

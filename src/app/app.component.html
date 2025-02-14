@@ -1,24 +1,13 @@
+<img decoding="async" class="logo" src="images/logo.png" alt="" />
+<!-- logo -->
+<nav>
+  <a routerLink="/" routerLinkActive="active">Home</a>
+  <a routerLink="/about" routerLinkActive="active">About</a>
+  <a routerLink="/contact" routerLinkActive="active">Contact</a>
+  <a routerLink="/services" routerLinkActive="active">Services</a>
+  <a routerLink="/portfolio" routerLinkActive="active">Portfolio</a>
+</nav>
 
-    <!-- Start Header -->
-    <div class="header">
-      <div class="container">
-        <img decoding="async" class="logo" src="images/logo.png" alt="" />
-        <div class="links">
-          <span class="icon">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
-          <ul>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- End Header -->
     <!-- Start Landing Section -->
     <div class="landing">
       <div class="intro-text">
@@ -168,23 +157,9 @@
     </div>
     <!-- End About -->
     <!-- Start Contact -->
-    <div class="contact">
-      <div class="container">
-        <h2 class="special-heading">Contact</h2>
-        <p>We are born to create</p>
-        <div class="info">
-          <p class="label">Feel free to drop us a line at:</p>
-          <a href="mailto:leonagency@mail.com?subject=Contact" class="link">leonagency@mail.com</a>
-          <div class="social">
-            Find Us On Social Networks
-            <i class="fab fa-youtube"></i>
-            <i class="fab fa-facebook-f"></i>
-            <i class="fab fa-twitter"></i>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <!-- End Contact -->
     <!-- Start Footer -->
     <div class="footer">&copy; 2021 <span>Leon</span> All Right Reserved</div>
     <!-- End Footer -->
+    <router-outlet></router-outlet>

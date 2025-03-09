@@ -1,4 +1,4 @@
-# 🌿 Leonecoo - Eco-Friendly E-Commerce Platform
+# 🌿 LeonEcoo - Eco-Friendly E-Commerce Platform
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://leonecoo.netlify.app/)
 
@@ -18,9 +18,6 @@
 - **Routing:** Angular Router  
 - **Hosting:** Netlify  
 
-## 📸 Screenshots
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
-![Product Page](https://via.placeholder.com/800x400?text=Product+Page+Screenshot)
 
 ## 📦 Installation
 To run the project locally, follow these steps:

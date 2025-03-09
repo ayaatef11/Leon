@@ -3,7 +3,8 @@
   .contact {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: var(--section-background);
+    /* background-color: var(--section-background); */
+    background-image: url("/public/images/gallery-01.png");
   }
   .contact .info {
     padding-top: var(--section-padding);

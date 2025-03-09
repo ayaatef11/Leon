@@ -25,7 +25,7 @@
                 "glob": "**/*",
                 "input": "public"
               },
-              "app/src/assets"
+              "src/assets"
             ],
             "styles": [
               "src/styles.css",
